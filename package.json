@@ -1,0 +1,23 @@
+{
+  "name": "webpack-deploy-http-push",
+  "version": "1.0.0",
+  "description": "a alternative to fis3-deploy-http-push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxjinwei/webpack-deploy-http-push.git"
+  },
+  "author": "jinwei01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxjinwei/webpack-deploy-http-push/issues"
+  },
+  "homepage": "https://github.com/xxjinwei/webpack-deploy-http-push#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "request": "^2.88.0"
+  }
+}
